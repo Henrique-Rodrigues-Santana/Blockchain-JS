@@ -1,0 +1,11 @@
+{
+  "name": "blockchains-com-js",
+  "version": "1.0.0",
+  "description": "Um sistema baseado JS baseado na arquitetura Blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henrique Rodrigues",
+  "license": "ISC"
+}
